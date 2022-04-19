@@ -18,7 +18,7 @@ export const products = [
     },
     {
       id: 4,
-      img: require("/home/rozeel/project/portfolio/src/4.jpg"),
+      img: require("/home/rozeel/project/portfolio/src/4.png"),
       link: "https://github.com/RozeelKusma/versify",
     }
   ];
