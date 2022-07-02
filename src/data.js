@@ -21,5 +21,15 @@ export const products = [
       id: 4,
       img: require("./4.png"),
       link: "https://github.com/RozeelKusma/versify-frontend",
+    },
+    {
+      id: 5,
+      img: require("./5.png"),
+      link: "https://github.com/RozeelKusma/shapers",
+    },
+    {
+      id:6,
+      img: require("./6.png"),
+      link: "https://github.com/RozeelKusma/ierrc-test",
     }
   ];
