@@ -12,7 +12,7 @@ const Intro = () => {
                 <div className="i-title">
                     <div className="i-title-wrapper">
                         <div className="i-title-item">Frontend Developer</div>
-                        <div className="i-title-item">Flutter UI</div>
+                        <div className="i-title-item">React Js</div>
                         <div className="i-title-item">HTML</div>
                         <div className="i-title-item">CSS</div>
                         <div className="i-title-item">JavaScript</div>
